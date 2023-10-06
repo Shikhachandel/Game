@@ -1,2 +1,2 @@
-# Game
+# Paddle and Ball Game
 In this a game is created using javascript on p5 where a user tries to hit the bricks with ball by giving it different direction and not letting in fall down.I have also added levels where a person's difficulty level will change and accordingly scores will be given.3 lives will be provided.If you finish three lives game will start from same level but from start while if that person only looses one life then they will be given a chance to contiue their game.
